@@ -11,3 +11,13 @@ html {
   text-decoration: none;
   color: #000;
 }
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.card:hover {
+  color: #333;
+  background-color: #e6e6e6;
+}
